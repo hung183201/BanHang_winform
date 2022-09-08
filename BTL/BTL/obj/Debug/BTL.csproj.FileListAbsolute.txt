@@ -1,0 +1,157 @@
+E:\Lập trình trực quan\C#\BTL\BTL\bin\Debug\BTL.exe.config
+E:\Lập trình trực quan\C#\BTL\BTL\bin\Debug\BTL.exe
+E:\Lập trình trực quan\C#\BTL\BTL\bin\Debug\BTL.pdb
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.frmQLNV.resources
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.exe
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.pdb
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.form.frmSanPham.resources
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.form.frmQLKH.resources
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.form.frmNhaCungCap.resources
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.form.frmHDB.resources
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.form.frmHDN.resources
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.form.frmMau.resources
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.form.frmChatLieu.resources
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.form.frmHoaVan.resources
+E:\Lập trình trực quan\C#\BTL\BTL\obj\Debug\BTL.form.frmKichThuoc.resources
+D:\C#_lttq\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+D:\C#_lttq\BTL\BTL\BTL\bin\Debug\BTL.exe
+D:\C#_lttq\BTL\BTL\BTL\bin\Debug\BTL.pdb
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.form.Form1.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.form.frmHDB.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.form.frmHDN.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.form.frmHoaVan.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.form.frmKichThuoc.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.form.frmMau.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.form.frmNhaCungCap.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.form.frmQLKH.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.frmQLNV.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.form.frmSanPham.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.exe
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.pdb
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.form.frmLogin.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.form.frmMain.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.form.frmHeThong.resources
+D:\C#_lttq\BTL\BTL\BTL\obj\Debug\BTL.form.frmChatLieu.resources
+E:\Lập trình trực quan\BTL\BTL\bin\Debug\BTL.exe.config
+E:\Lập trình trực quan\BTL\BTL\bin\Debug\BTL.exe
+E:\Lập trình trực quan\BTL\BTL\bin\Debug\BTL.pdb
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.form.Form1.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.form.frmChatLieu.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.form.frmHDB.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.form.frmHDN.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.form.frmHeThong.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.form.frmHoaVan.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.form.frmKichThuoc.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.form.frmLogin.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.form.frmMain.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.form.frmMau.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.form.frmNhaCungCap.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.form.frmQLKH.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.frmQLNV.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.form.frmSanPham.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.exe
+E:\Lập trình trực quan\BTL\BTL\obj\Debug\BTL.pdb
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\BTL.exe.config
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\BTL.exe
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\BTL.pdb
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\EnvDTE.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\stdole.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\Microsoft.MSXML.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.BCTongNhaptrongthang.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.Form1.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.frmChatLieu.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.frmHDB.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.frmHDN.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.frmHeThong.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.frmHoaVan.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.frmKichThuoc.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.frmLogin.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.frmMain.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.frmMau.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.frmNhaCungCap.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.frmQLKH.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.frmQLNV.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.frmSanPham.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.frmTaiKhoan.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\RdlCompile.cache
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\RdlCompile.compiled
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.exe
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.pdb
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\rptongnhap.rdlc
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.BCTongBantrongthang.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\bin\Debug\rptongxuat.rdlc
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.form.ThongKe.resources
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.csproj.ResolveComReference.cache
+D:\C#_lttq\BTL 1(1)\BTL\BTL\obj\Debug\BTL.frmBanHang_TimKiem.resources
